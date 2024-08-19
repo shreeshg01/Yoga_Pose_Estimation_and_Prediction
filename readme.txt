@@ -1,1 +1,1 @@
-to run the project code, open the code folder in any IDE supporting Python and execute the Tiku.py file. 
+to run the project code, open the code folder in any IDE supporting Python and execute the Tiku.py file. TODO
